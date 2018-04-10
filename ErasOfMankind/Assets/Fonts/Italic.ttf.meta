@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9760ff2c827d70c488ae93408cc8795f
+timeCreated: 1490111687
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 48
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FTY SPEEDY CASUAL 001 NCV
+  fontNames:
+  - Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8f7ff3a3d6bbe7540b35a5056fce51e3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

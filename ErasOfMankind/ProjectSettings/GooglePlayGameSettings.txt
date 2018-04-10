@@ -1,0 +1,14 @@
+lastUpgrade=00940
+proj.pluginVersion=0.9.40
+proj.AppId=868185997016
+and.BundleId=com.MillennialsGbR.ErasOfMankind
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e868185997016%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.MillennialsGbR.ErasOfMankind%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_stone_age%22%3eCgkI2P2rn6IZEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_copper_age%22%3eCgkI2P2rn6IZEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_awesome%22%3eCgkI2P2rn6IZEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_brave%22%3eCgkI2P2rn6IZEAIQBw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_wisdom%22%3eCgkI2P2rn6IZEAIQCA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_leaderboard%22%3eCgkI2P2rn6IZEAIQAw%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=868185997016-pjobm2gsf0rsju1gfpahnurmkfre488m.apps.googleusercontent.com
+proj.requireGPlus=false
+android.SetupDone=true
+ios.ClientId=868185997016-pjobm2gsf0rsju1gfpahnurmkfre488m.apps.googleusercontent.com
+ios.BundleId=com.MillennialsGbR.ErasOfMankind
+ios.ResourceData=%23define+CLIENT_ID+%40%22868185997016-pjobm2gsf0rsju1gfpahnurmkfre488m.apps.googleusercontent.com%22%0d%0a%23define+BUNDLE_ID+%40%22com.MillennialsGbR.ErasOfMankind%22%0d%0a%23define+ACH_STONE_AGE+%40%22CgkI2P2rn6IZEAIQBA%22%0d%0a%23define+ACH_COPPER_AGE+%40%22CgkI2P2rn6IZEAIQBQ%22%0d%0a%23define+ACH_AWESOME+%40%22CgkI2P2rn6IZEAIQBg%22%0d%0a%23define+ACH_BRAVE+%40%22CgkI2P2rn6IZEAIQBw%22%0d%0a%23define+ACH_WISDOM+%40%22CgkI2P2rn6IZEAIQCA%22%0d%0a%23define+LEAD_LEADERBOARD+%40%22CgkI2P2rn6IZEAIQAw%22
+ios.SetupDone=true
